@@ -6,7 +6,11 @@ export default function CodedBy() {
     <div className="CodedBy">
       <p>
         {" "}
-        <a href="https://github.com/robilie/react-week-4-homework.git">
+        <a
+          href="https://github.com/robilie/react-week-4-homework.git"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open source code
         </a>{" "}
         by Roberta Obilie
