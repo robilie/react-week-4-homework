@@ -3,9 +3,9 @@ import "./Weather.css";
 
 import Search from "./Search";
 
-export default function App() {
+export default function Weather() {
   return (
-    <div className="App">
+    <div className="Weather">
       <div className="container">
         <div id="recBox">
           <div className="row">
